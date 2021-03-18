@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Ben @GreenMoonStudio
-- I make coding stuff
+- I make coding stuff, some good, some terrible. 
